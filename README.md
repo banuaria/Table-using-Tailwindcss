@@ -1,1 +1,1 @@
-"# Creating Table using Tailwindcss" 
+Tugas ke 1 dan 2
